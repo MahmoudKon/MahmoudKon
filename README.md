@@ -29,6 +29,7 @@
 
 ### Latest Projects: 
 [![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=MahmoudKon&repo=laravel_dashboard&theme=gotham&hide_border=true)](https://github.com/MahmoudKon/laravel_dashboard)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=MahmoudKon&repo=messenger&theme=gotham&hide_border=true)](https://github.com/MahmoudKon/messenger)
   
 ### My Stats:
 <div align="left">
